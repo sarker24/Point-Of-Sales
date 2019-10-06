@@ -1,0 +1,882 @@
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory 23052011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory 23052011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory 23052011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory 23052011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory 23052011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory 23052011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory 23052011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory 23052011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\AssetInventory 23052011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\AssetInventory 23052011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\AssetInventory 23052011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\AssetInventory 23052011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory 23052011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.Report\bin\Debug\BOL.dll
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.Report\bin\Debug\BOL.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.Report\bin\Debug\BOL.dll
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.Report\bin\Debug\BOL.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.Report\bin\Debug\BOL.dll
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.Report\bin\Debug\BOL.pdb
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Hardware\POS Hardware 20122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Hardware\POS Hardware 20122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Hardware\POS Hardware 20122011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Hardware\POS Hardware 20122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Hardware\POS Hardware 20122011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Hardware\POS Hardware 20122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Hardware\POS Hardware 20122011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Hardware\POS Hardware 20122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Hardware\POS Hardware 20122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Hardware\POS Hardware 20122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Hardware\POS Hardware 20122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Hardware\POS Hardware 20122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Hardware\POS Hardware 20122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Cosmetic\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Cosmetic\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Cosmetic\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Cosmetic\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Cosmetic\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Cosmetic\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Cosmetic\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Cosmetic\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Cosmetic\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Cosmetic\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Cosmetic\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Cosmetic\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Cosmetic\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-29\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-29\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-29\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-29\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-29\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-29\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-29\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-29\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-29\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-29\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-29\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-29\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-29\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-31\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-31\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-31\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-31\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-31\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-31\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-31\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-31\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-31\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-31\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-31\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-31\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-31\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-01\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-01\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-01\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-01\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-01\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-01\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-01\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-01\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-01\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-01\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-01\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-01\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-01\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-02\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-02\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-02\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-02\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-02\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-02\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-02\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-02\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-02\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-02\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-02\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-02\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-02\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-03\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-03\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-03\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-03\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-03\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-03\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-03\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-03\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-03\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-03\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-03\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-03\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-01-03\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-28\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-28\SalesPOS.Report\bin\Debug\AssetInventory.Report`TRýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdLRY^L4UReWL2?<T\\ýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdLRY^L4UReWLA9CC4QdQ1SSUcc<QiUbT\\ýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdLRY^L4UReWL2?<`TRýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdLRY^L4UReWLA9CC4QdQ1SSUcc<QiUb`TRýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdL_RZL4UReWLBUc_\fU1ccU]R\iBUVUbU^SUSQSXUýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdVb]@bY^dbUc_ebSUcýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdVb]B`dfbUc_ebSUcýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bd@b_`UbdYUcBUc_ebSUcbUc_ebSUcýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdSc`b_Z7U^UbQdUBUc_ebSU3QSXUýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdUhUýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bd`TRýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdLRY^L4UReWL1ccUd9^fU^d_biBU`_bdUhUýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdLRY^L4UReWL1ccUd9^fU^d_biBU`_bd`TRýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdLRY^L4UReWL2?<T\\ýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdLRY^L4UReWLA9CC4QdQ1SSUcc<QiUbT\\ýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdLRY^L4UReWL2?<`TRýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdLRY^L4UReWLA9CC4QdQ1SSUcc<QiUb`TRýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdL_RZL4UReWLBUc_\fU1ccU]R\iBUVUbU^SUSQSXUýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdVb]@bY^dbUc_ebSUcýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdVb]B`dfbUc_ebSUcýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bd@b_`UbdYUcBUc_ebSUcbUc_ebSUcýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdSc`b_Z7U^UbQdUBUc_ebSU3QSXUýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdUhUýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" #"(LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bd`TRýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #")LCQ\Uc@?CBU`_bdLRY^L4UReWL1ccUd9^fU^d_biBU`_bdUhUýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #")LCQ\Uc@?CBU`_bdLRY^L4UReWL1ccUd9^fU^d_biBU`_bd`TRýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #")LCQ\Uc@?CBU`_bdLRY^L4UReWL2?<T\\ýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #")LCQ\Uc@?CBU`_bdLRY^L4UReWLA9CC4QdQ1SSUcc<QiUbT\\ýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #")LCQ\Uc@?CBU`_bdLRY^L4UReWL2?<`TRýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #")LCQ\Uc@?CBU`_bdLRY^L4UReWLA9CC4QdQ1SSUcc<QiUb`TRýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #")LCQ\Uc@?CBU`_bdL_RZL4UReWLBUc_\fU1ccU]R\iBUVUbU^SUSQSXUýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #")LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdVb]@bY^dbUc_ebSUcýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #")LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdVb]B`dfbUc_ebSUcýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #")LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bd@b_`UbdYUcBUc_ebSUcbUc_ebSUcýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #")LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdSc`b_Z7U^UbQdUBUc_ebSU3QSXUýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #")LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdUhUýú8*L=iBUc_ebSUcL`b_ZUSdL@?C9^fU^d_biL@?C9^fU^d_bi" !" #")LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bd`TRýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ## LCQ\Uc@?CBU`_bdLRY^L4UReWL1ccUd9^fU^d_biBU`_bdUhUýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ## LCQ\Uc@?CBU`_bdLRY^L4UReWL1ccUd9^fU^d_biBU`_bd`TRýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ## LCQ\Uc@?CBU`_bdLRY^L4UReWL2?<T\\ýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ## LCQ\Uc@?CBU`_bdLRY^L4UReWLA9CC4QdQ1SSUcc<QiUbT\\ýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ## LCQ\Uc@?CBU`_bdLRY^L4UReWL2?<`TRýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ## LCQ\Uc@?CBU`_bdLRY^L4UReWLA9CC4QdQ1SSUcc<QiUb`TRýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ## LCQ\Uc@?CBU`_bdL_RZL4UReWLBUc_\fU1ccU]R\iBUVUbU^SUSQSXUýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ## LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdVb]@bY^dbUc_ebSUcýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ## LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdVb]B`dfbUc_ebSUcýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ## LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bd@b_`UbdYUcBUc_ebSUcbUc_ebSUcýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ## LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdSc`b_Z7U^UbQdUBUc_ebSU3QSXUýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ## LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bdUhUýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ## LCQ\Uc@?CBU`_bdL_RZL4UReWL1ccUd9^fU^d_biBU`_bd`TRýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ##!LCQ\Uc@?CBU`_bdLRY^L4UReWL1ccUd9^fU^d_biBU`_bdUhUýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ##!LCQ\Uc@?CBU`_bdLRY^L4UReWL1ccUd9^fU^d_biBU`_bd`TRýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ##!LCQ\Uc@?CBU`_bdLRY^L4UReWL2?<T\\ýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ##!LCQ\Uc@?CBU`_bdLRY^L4UReWLA9CC4QdQ1SSUcc<QiUbT\\ýú5*L4Uc[d_`L@?C9^fU^d_biL@?C9^fU^d_bi" !" ##!LCQ\Uc@?CBU`_rt\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-33\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-33\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-33\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-33\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-33\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-33\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-33\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-33\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-33\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-33\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-33\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-33\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-33\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-27\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-05-27\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-27\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-27\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-27\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-27\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-27\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-05-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-05-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-05-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-05-27\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.Report\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.Report\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.Report\bin\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.Report\bin\Debug\AssetInventory.Report.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.Report\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.Report\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.Report\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmPrint.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.Report\obj\Debug\AssetInventory.Report.frmRptv.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.Report\obj\Debug\AssetInventory.Report.Properties.Resources.resources
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.Report\obj\Debug\AssetInventory.Report.csproj.GenerateResource.Cache
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.Report\obj\Debug\AssetInventory.Report.exe
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.Report\obj\Debug\AssetInventory.Report.pdb
+#CLN#_Mabez_2

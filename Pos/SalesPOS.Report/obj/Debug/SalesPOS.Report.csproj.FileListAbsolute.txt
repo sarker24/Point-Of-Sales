@@ -1,0 +1,219 @@
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+G:\Pernonal\AssetInventory\AssetInventory\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+G:\Pernonal\AssetInventory\AssetInventory\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+G:\Pernonal\AssetInventory\AssetInventory\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\AssetInventory\AssetInventory\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+G:\Pernonal\AssetInventory\AssetInventory\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+G:\Pernonal\AssetInventory\AssetInventory\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+G:\Pernonal\AssetInventory\AssetInventory\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+G:\Pernonal\AssetInventory\AssetInventory\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+G:\Pernonal\AssetInventory\AssetInventory\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 14052011\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 14052011\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 14052011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 14052011\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 14052011\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 14052011\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 14052011\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\AssetInventory\AssetInventory 14052011\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 14052011\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb

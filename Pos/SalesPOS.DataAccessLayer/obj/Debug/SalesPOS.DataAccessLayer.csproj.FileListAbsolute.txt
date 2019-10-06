@@ -1,0 +1,305 @@
+C:\RASEL DATA\Projects\SalesPOS\SalesPOSProject\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+C:\RASEL DATA\Projects\SalesPOS\SalesPOSProject\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+C:\RASEL DATA\Projects\SalesPOS\SalesPOSProject\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\RASEL DATA\Projects\SalesPOS\SalesPOSProject\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+C:\RASEL DATA\Projects\SalesPOS\SalesPOSProject\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\2\SalesPOS04092010\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\2\SalesPOS04092010\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\2\SalesPOS04092010\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\2\SalesPOS04092010\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\2\SalesPOS04092010\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\3\SalesPOS04092010\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\3\SalesPOS04092010\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\3\SalesPOS04092010\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\3\SalesPOS04092010\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\3\SalesPOS04092010\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+C:\RASEL DATA\Projects\SalesPOS\3\SalesPOS04092010\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+C:\RASEL DATA\Projects\SalesPOS\3\SalesPOS04092010\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+C:\RASEL DATA\Projects\SalesPOS\3\SalesPOS04092010\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\RASEL DATA\Projects\SalesPOS\3\SalesPOS04092010\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+C:\RASEL DATA\Projects\SalesPOS\3\SalesPOS04092010\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\4\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\4\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\4\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\4\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\4\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+C:\RASEL DATA\Projects\SalesPOS\5\5\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+C:\RASEL DATA\Projects\SalesPOS\5\5\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+C:\RASEL DATA\Projects\SalesPOS\5\5\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\RASEL DATA\Projects\SalesPOS\5\5\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+C:\RASEL DATA\Projects\SalesPOS\5\5\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\6\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\6\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\6\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\6\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\6\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\7(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\7(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\7(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\7(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\7(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\8(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\8(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\8(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\8(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\8(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\8(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\8(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\8(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\8(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\8(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\9(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\9(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\9(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\9(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\9(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\9(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\9(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\9(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\9(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\9(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\10(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\10(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\10(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\10(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\10(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\11(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\11(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\11(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\11(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\11(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\12(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\12(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\12(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\12(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\12(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\13(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\13(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\13(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\13(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\13(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\14(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\14(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\14(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\14(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\14(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\15(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\15(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\15(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\15(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\15(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\16(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\16(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\16(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\16(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\16(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\16(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\16(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\16(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\16(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\16(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\17(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\17(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\17(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\17(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\17(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\17(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\17(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\17(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\17(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\17(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\18(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\18(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\18(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\18(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\18(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\18(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\18(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\18(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\18(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\18(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\19(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\19(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\19(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\19(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\19(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+C:\RASEL DATA\Projects\SalesPOS\19(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+C:\RASEL DATA\Projects\SalesPOS\19(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+C:\RASEL DATA\Projects\SalesPOS\19(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\RASEL DATA\Projects\SalesPOS\19(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+C:\RASEL DATA\Projects\SalesPOS\19(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\20(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\20(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\20(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\20(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\20(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\20(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\20(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\20(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\20(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\20(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\22(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\22(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\22(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\22(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\22(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\23(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\23(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\23(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\23(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\23(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\24(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\24(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\24(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\24(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\24(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\25(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\25(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\25(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\25(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\25(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\27(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\27(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\27(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\27(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\27(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\35(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\35(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\35(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\35(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\35(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\36(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\36(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\36(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\36(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\36(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\37(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\37(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\37(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\37(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\37(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\39(faysal)-1\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\39(faysal)-1\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\39(faysal)-1\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\39(faysal)-1\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\39(faysal)-1\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\AssetInventory\AssetInventory\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\AssetInventory\AssetInventory\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\AssetInventory\AssetInventory\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\AssetInventory\AssetInventory\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\AssetInventory\AssetInventory\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 14052011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 14052011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 14052011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 14052011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 14052011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb

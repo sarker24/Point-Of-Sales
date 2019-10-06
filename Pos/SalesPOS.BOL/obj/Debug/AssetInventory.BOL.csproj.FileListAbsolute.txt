@@ -1,0 +1,315 @@
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.BOL\obj\Debug\BOL.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.BOL\bin\Debug\BOL.dll
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.BOL\bin\Debug\BOL.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.BOL\obj\Debug\BOL.dll
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.BOL\obj\Debug\BOL.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.BOL\bin\Debug\BOL.dll
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.BOL\bin\Debug\BOL.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.BOL\obj\Debug\BOL.dll
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.BOL\obj\Debug\BOL.pdb
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.BOL\bin\Debug\BOL.dll
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.BOL\bin\Debug\BOL.pdb
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.BOL\obj\Debug\BOL.dll
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Cosmetic\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Cosmetic\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Cosmetic\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Cosmetic\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Cosmetic\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-28\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-28\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-28\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-28\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-28\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-28\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-28\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-28\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-28\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-28\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-29\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-29\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-29\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-29\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-29\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-30\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-30\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-30\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-30\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-30\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.BOL\obj\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.BOL\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.BOL\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.BOL\obj\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.BOL\obj\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.BOL\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.BOL\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.BOL\obj\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.BOL\obj\Debug\BOL.pdb

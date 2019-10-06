@@ -1,0 +1,448 @@
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22052011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory 23052011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory 23052011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory 23052011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory 23052011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory 23052011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory 23052011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory 23052011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 16092011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 16092011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 20092011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 21092011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 29092011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 29092011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 13102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 13102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+C:\Documents and Settings\Administrator\Desktop\AssetInventory 22102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 22102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 27102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+G:\Pernonal\AssetInventory\AssetInventory 27102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\Software\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 29102011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 11112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\Software\AssetInventory\AssetInventory 11112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 13112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 14112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 15112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 15112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 16112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\AssetInventory\AssetInventory 19112011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 05122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\AssetInventory\AssetInventory 07122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 12122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 13122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 14122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Hardware\POS Hardware 15122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Hardware\POS Hardware 17122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 18122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Hardware\POS Hardware 21122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Hardware\POS Hardware 22122011\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Cosmetic\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Cosmetic\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Cosmetic\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Cosmetic\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Cosmetic\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Cosmetic\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Cosmetic\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-12-27\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Cosmetic\POS Cosmetic 2012-12-28\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Cosmetic\POS Cosmetic 2012-01-04\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 04-03-2012\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-24\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-24\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-25\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-27\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-28\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-28\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-28\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-28\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-28\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-28\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-28\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-28\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-28\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-28\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-28\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-28\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-28\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-28\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-29\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-29\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-29\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-29\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-29\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-29\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-03-29\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-30\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-30\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-30\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-30\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-30\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-30\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-30\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-31\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-03-32\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-01\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-09\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\Fahad\POS Inventory 2012-05-09\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\Fahad Inventory\POS Inventory 2012-05-10\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-11\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-19\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\Inventory 2012-05-20\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-21\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-21\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-05-24\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-05-24\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-06-11\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+H:\My  Resources\project\POS Inventory\POS Inventory 2012-06-12\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.DataAccessLayer\bin\Debug\BOL.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.DataAccessLayer\bin\Debug\BOL.pdb
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\Desktop\POS Inventory\POS Inventory 2012-06-14\SalesPOS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb

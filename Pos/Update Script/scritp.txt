@@ -1,0 +1,301 @@
+IF Not EXISTS (
+       SELECT *
+       FROM   INFORMATION_SCHEMA.Columns
+       WHERE  TABLE_NAME = 'AccountHolderInfo'
+              AND COLUMN_NAME = 'CustomerType'
+   )
+ begin
+    ALTER TABLE AccountHolderInfo ADD
+    CustomerType VARCHAR(50)
+end
+GO
+
+--//////////////////////////////////////////////////////////////////
+--//////////////////////////////////////////////////////////////////
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+--exec [USP_AccountHolderInfo_Add] 'SUP0000007','dsfdsf', 1, '','',1,'1-1-2001' , 1 , 0, 0000007 
+ALTER PROCEDURE [dbo].[USP_AccountHolderInfo_Add] 
+--@AccHolderInfoId	 as 	bigint,
+--@AccountNo	 as 	nvarchar (MAX) ,
+@AccHolderName	 as 	nvarchar (MAX) ,
+@AccountHolderTypeID	 as 	bigint,
+@Address	 as 	nvarchar (MAX) ,
+@ContactNo	 as 	nvarchar (MAX) ,
+@ActivityID	 as 	bigint,
+@CreatedDate	 as 	datetime,
+@CreatedBy	 as 	bigint,
+@IsDeleted	 as 	BIT,
+@CustomerType VARCHAR(50)=''
+--@maxAccntNoValue as bigint
+AS
+declare @AccountNo	 as 	nvarchar (MAX)
+Set @AccountNo=(select [dbo].[getMaxSLAccountHolderInfo] (@AccountHolderTypeID))
+BEGIN
+INSERT INTO [dbo].[AccountHolderInfo](
+--[AccHolderInfoId],
+[AccountNo],
+[AccHolderName],
+[AccountHolderTypeID],
+[Address],
+[ContactNo],
+[ActivityID],
+[CreatedDate],
+[CreatedBy],
+[IsDeleted],
+CustomerType)
+VALUES(
+--@AccHolderInfoId,
+@AccountNo,
+@AccHolderName,
+@AccountHolderTypeID,
+@Address,
+@ContactNo,
+@ActivityID,
+@CreatedDate,
+@CreatedBy,
+@IsDeleted,
+@CustomerType)
+--print @maxAccntNoValue
+UPDATE AccountHolderType SET AccountHolderTypeMaxValue = @AccountNo where AccountHolderTypeID = @AccountHolderTypeID
+
+
+END
+
+--///////////////////////////////////////////////////////////
+--///////////////////////////////////////////////////////////
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER PROCEDURE [dbo].[USP_AccountHolderInfo_Update] (
+@AccHolderInfoId	 as 	bigint,
+--@AccountNo	 as 	nvarchar (MAX) ,
+@AccHolderName	 as 	nvarchar (MAX),
+--@AccountHolderTypeID	 as 	bigint,
+@Address	 as 	nvarchar (MAX) ,
+@ContactNo	 as 	nvarchar (MAX) ,
+@ActivityID	 as 	bigint,
+@UpdatedDate	 as 	datetime,
+@UpdatedBy	 as 	BIGINT,
+@CustomerType VARCHAR(50)=''
+)
+AS
+BEGIN
+
+UPDATE AccountHolderInfo SET 
+--[AccountNo] = @AccountNo,
+[AccHolderName] = @AccHolderName,
+--[AccountHolderTypeID] = @AccountHolderTypeID,
+[Address] = @Address,
+[ContactNo] = @ContactNo,
+[ActivityID] = @ActivityID,
+[UpdatedDate] = @UpdatedDate,
+[UpdatedBy] = @UpdatedBy,
+CustomerType=@CustomerType
+where [AccHolderInfoId] = @AccHolderInfoId
+
+END
+
+
+--/////////////////////////////////////////////////////
+--/////////////////////////////////////////////////////
+IF NOT EXISTS (
+       SELECT *
+       FROM   ht_maxsl
+       WHERE  table_name = 'ChallanParentInfo'             
+   )
+BEGIN
+    INSERT INTO ht_maxsl
+      (
+        table_id,
+        table_name,
+        max_sl,
+        max_prefix
+      )
+    VALUES
+      (
+        5,
+        'ChallanParentInfo',
+        'CH000000',
+        'CH'
+      )
+END
+
+--//////////////////////////////////////////
+--///////////////////////////////////////////
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		<Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:	<Description,,>
+-- =============================================
+CREATE PROCEDURE [dbo].[insert_challan_master] (
+    @SalesMasterID  BIGINT,
+    @CreatedBy      BIGINT,
+    @Remarks        VARCHAR(250)
+)
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+	
+	
+	DECLARE @ChallanNo VARCHAR(MAX)
+	SET @ChallanNo = (
+	        SELECT dbo.getMaxSL(5)
+	    )
+	UPDATE ht_maxsl
+	SET	max_sl = @ChallanNo
+	WHERE ht_maxsl.table_id=5
+	INSERT INTO dbo.ChallanParentInfo
+	VALUES
+	  (
+	    @ChallanNo,
+	    CONVERT(DATETIME, GETDATE(), 103),
+	    @SalesMasterID,
+	    @CreatedBy,
+	    CONVERT(DATETIME, GETDATE(), 103),
+	    @Remarks
+	  )
+	
+	SELECT @ChallanNo AS 'ChallanNo'
+END
+
+
+--/////////////////////////////////////////////////////////
+--/////////////////////////////////////////////////////////
+UPDATE AccountHolderInfo
+SET	CustomerType = 'OTHERS'
+
+--//////////////////////////////////////////////////////////
+--//////////////////////////////////////////////////////////
+
+
+Create PROCEDURE [dbo].[list_of_challan] 
+	-- [dbo].[list_of_challan] '17/06/2012'
+	@ChallanDate varchar(15)	
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+	
+		BEGIN			
+			SELECT * FROM ChallanParentInfo 
+			INNER JOIN  UserInfo ON ChallanParentInfo.CreatedBy = UserInfo.UserInfoId
+			WHERE (CONVERT(DATETIME, left(ChallanParentInfo.Date,12),103)= CONVERT(DATETIME, @ChallanDate, 103) )
+		END	
+END
+
+
+--////////////////////////////////////////////////////
+--////////////////////////////////////////////////////
+
+Create PROCEDURE [dbo].[print_challan]
+--dbo.print_challan 'NS00000019'
+	@SalesInvoiceNo
+AS
+	VARCHAR(10)
+	AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+	
+	DECLARE @MemoNote AS VARCHAR(350)
+	SELECT @MemoNote=Isnull(mit.msg_description,'') FROM Message_Info_t mit WHERE mit.msg_id=1
+	
+	-- Insert statements for procedure here
+	SELECT ROW_NUMBER() OVER(ORDER BY SalesChildInfo.ProductSizeID) AS SrNo,
+	       ProductInfo.PID as ItemCode,
+	       dbo.ProductInfo.PID AS ItemID,
+	       dbo.ProductInfo.ProductName+ ' ' + ProductSizeLookup.VariationName + ' ' + SalesChildInfo.Manufacturer  AS ItemDescription,
+	       dbo.SalesChildInfo.SalesQuantity,
+	       dbo.UnitInfo.UnitName,
+	       dbo.SalesChildInfo.UnitSalesPrice,
+	       dbo.SalesChildInfo.VatRate,
+	       dbo.SalesChildInfo.SalesQuantity * dbo.SalesChildInfo.UnitSalesPrice 
+	       * dbo.SalesChildInfo.VatRate / 100 + dbo.SalesChildInfo.SalesQuantity 
+	       * dbo.SalesChildInfo.UnitSalesPrice AS TotalPriceWithVat,
+	       dbo.Warrenty_Type_t.WarrentyName,
+	       dbo.SalesChildInfo.SerialNo,
+	       dbo.ChallanParentInfo.ChallanNo as SalesInvoiceNo,
+	       dbo.ChallanParentInfo.Date as SalesDate,
+	       ISNULL(dbo.SalesMasterInfo.CustomerName, '') AS CustomerName,
+	       ISNULL(dbo.SalesMasterInfo.CustomerPhone, '') AS CustomerPhone,
+	       ISNULL(dbo.SalesMasterInfo.CustomerAddress, '') AS CustomerAddress,
+	       ISNULL(dbo.SalesMasterInfo.CashPaid, 0) AS [CashPaid],
+	       dbo.UserInfo.SoftUser,
+	       '' AS 'Salesman',
+	       ISNULL(SalesMasterInfo.VehicleNo, '') AS VehicleNo,
+	       dbo.AccountHolderInfo.AccountNo AS 'CustomerCode',
+	       '' AS 'MemoNote',
+	       ISNULL(dbo.SalesMasterInfo.PO_Number, '') AS PO_Number
+	FROM   ProductInfo INNER JOIN
+                      ProductSizeLookup ON ProductInfo.PID = ProductSizeLookup.PID INNER JOIN
+                      SalesChildInfo ON ProductSizeLookup.ProductSizeID = SalesChildInfo.ProductSizeID INNER JOIN
+                      SalesMasterInfo ON SalesChildInfo.SalesMasterID = SalesMasterInfo.SalesMasterID INNER JOIN
+                      UnitInfo ON ProductInfo.UnitId = UnitInfo.UnitId INNER JOIN
+                      Warrenty_Type_t ON ProductInfo.WarrentyID = Warrenty_Type_t.WarrentyID INNER JOIN
+                      AccountHolderInfo ON SalesMasterInfo.CustomerID = AccountHolderInfo.AccHolderInfoId INNER JOIN
+                      UserInfo ON SalesMasterInfo.CreatedBy = UserInfo.UserInfoId	  INNER JOIN
+                      ChallanParentInfo  ON SalesMasterInfo.SalesMasterID=ChallanParentInfo.SalesMasterID
+	WHERE  dbo.ChallanParentInfo.ChallanNo= @SalesInvoiceNo 
+END
+
+
+
+--///////////////////////////////////////////////////////
+ALTER PROCEDURE [dbo].[populate_service_list] 
+	-- dbo.populate_service_list '454546',199
+	@SerialNo VARCHAR(20),
+	@ProductSizeID BIGINT
+	
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	SELECT     Service_Parent.ServiceNumber, ProductInfo.ProductName +' '+ ProductSizeLookup.VariationName +' '+ Service_Parent.Manufacturer AS [description], 
+                      Service_Parent.ReceivedDateTime, Service_Parent.PaidAmount, Service_Parent.IsNewFareAdded,Service_Parent.IsWarrentyApplicable 
+FROM         ProductInfo INNER JOIN
+                      ProductSizeLookup ON ProductInfo.PID = ProductSizeLookup.PID INNER JOIN
+                      Service_Parent ON ProductSizeLookup.ProductSizeID = Service_Parent.ProductSizeID
+WHERE     (Service_Parent.ProductSizeID = @ProductSizeID) AND (Service_Parent.SerialNo = @SerialNo)
+END
+
+--////////////////////////////////////////////////////
+--////////////////////////////////////////////////////
+
+
+
+
+
+
+ALTER DATABASE POS
+SET SINGLE_USER WITH
+ROLLBACK IMMEDIATE
+
+RESTORE DATABASE POS
+FROM DISK = 'C:\Program Files\Microsoft SQL Server\MSSQL10.MSSQLSERVER2008\MSSQL\Backup\SalesSystemFinal.bak'
+WITH MOVE 'AssetInventory' TO 'C:\Program Files\Microsoft SQL Server\MSSQL.1\MSSQL\Data\SalesSystemFinal.mdf',
+MOVE 'AssetInventory_log' TO 'C:\Program Files\Microsoft SQL Server\MSSQL.1\MSSQL\Data\SalesSystemFinal_log.ldf'
+
+
+ALTER DATABASE YourDB SET MULTI_USER
+GO
+                  
+
+
